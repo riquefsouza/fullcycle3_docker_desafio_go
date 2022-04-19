@@ -1,8 +1,9 @@
 # fullcycle3_docker_desafio_go
 Fullcycle3 Docker Desafio Go
 
-https://hub.docker.com/r/riquefsouza/codeeducation
+Obs: Não foi adicionado no github o binário da aplicação go.
 
+https://hub.docker.com/r/riquefsouza/codeeducation
 
 https://github.com/riquefsouza/fullcycle3_docker_desafio_go
 
